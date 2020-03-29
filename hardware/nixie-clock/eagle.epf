@@ -265,6 +265,9 @@ UsedLibraryUrn="urn:adsk.eagle:library:196"
 UsedLibraryUrn="urn:adsk.eagle:library:197"
 UsedLibraryUrn="urn:adsk.eagle:library:198"
 UsedLibraryUrn="urn:adsk.eagle:library:199"
+UsedLibrary="/home/snakeye/EAGLE/libraries/nixie-clock/IRF840.lbr"
+UsedLibrary="/home/snakeye/EAGLE/libraries/nixie-clock/russian-nixies.lbr"
+UsedLibrary="/home/snakeye/EAGLE/libraries/eagle-lib/WS2812B.lbr"
 
 [Win_1]
 Type="Control Panel"
