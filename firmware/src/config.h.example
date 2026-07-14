@@ -1,0 +1,7 @@
+#pragma once
+
+namespace WifiConfig
+{
+    constexpr const char *Ssid = "";
+    constexpr const char *Password = "";
+}
